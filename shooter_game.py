@@ -1,4 +1,5 @@
 from pygame import *
+from turtle import *
 
 #2. Hafta
 from random import randint
